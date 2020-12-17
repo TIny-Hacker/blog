@@ -12,7 +12,7 @@ title: TInyWeb                          # the main title
 tagline: TIny_Hacker's blog/website  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Hi! I program calculaotrs and do other nerdy stuff.
+  Hi! I program calculators and do other nerdy stuff.
 
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
 url: 'https://tiny-hacker.github.io'
