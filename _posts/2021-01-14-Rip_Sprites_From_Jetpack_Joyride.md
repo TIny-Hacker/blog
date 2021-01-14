@@ -1,6 +1,6 @@
 ---
 title: How to Rip Sprites From Jetpack Joyride
-date: 2021-01-14 10:11:23 +/-0:500
+date: 2021-01-14 10:11:23 +0:500
 categories: [Sprites]
 tags: [tutorials]
 ---
