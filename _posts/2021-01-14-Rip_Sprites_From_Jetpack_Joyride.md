@@ -1,12 +1,13 @@
 ---
 title: How to Rip Sprites From Jetpack Joyride
 date: 2021-01-14 10:11:23 +0:500
-categories: [Sprites]
+categories:
 tags:
 ---
 
 # Introduction
 Recently, I was interested in ripping sprites from Halfbrick Studios’ popular game Jetpack Joyride. I downloaded the APK file and extracted it, but instead of finding a viewable image such as a PNG, I only found texture files with the extension `.tex`. At first I thought it might be an obscure image file, but could still be opened, however, it turned out that it was a custom format only able to be opened in special programs. I searched around for a while to see if there was a tutorial on how to do this, but there was not, and so I have now made one!
+Please Note: This tutorial is meant for ripping sprites on Mac OS. For ripping sprites on another operating system, there should be more resources online.
 
 # What to Download
 You won’t need much to rip the sprites. Here’s what you do need:
