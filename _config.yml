@@ -7,12 +7,12 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: TInyWeb                          # the main title
+title: TIny_Hacker's Website                          # the main title
 
-tagline: TIny_Hacker's blog/website  # it will display as the sub-title
+tagline: It's my lovely website where I tell you anything I want!  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Hi! I program calculators and do other nerdy stuff.
+  Hi! I program calculators and do other nerdy stuff. Find out cool tech tips and other things on my website!
 
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
 url: 'https://tiny-hacker.github.io'
@@ -50,7 +50,7 @@ baseurl: ''
 timezone: America/New_York
 
 google_analytics:
-  id: ''          # Fill with your Google Analytics ID
+  id: 'G-YSQFNXNXV8'          # Fill with your Google Analytics ID
   pv:
     # The Google Analytics pageviews switch.
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
