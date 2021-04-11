@@ -65,7 +65,7 @@
         https://github.com/{{ site.github.username }}
       {%- elsif entry.type == 'email' -%}
         {% assign email = site.social.email | split: '@' %}
-        javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@')
+        javascript:location.href = 'https://www.cemetech.net/forum/privmsg.php?mode=post&u=TIny_Hacker'
       {%- elsif entry.type == 'rss' -%}
         {{ "/feed.xml" | relative_url }}
       {%- else -%}
