@@ -15,7 +15,7 @@ description: >-                        # used by seo meta and the atom feed
   Hi! I program calculators and do other nerdy stuff. Find out cool tech tips and other things on my website!
 
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
-url: 'https://tiny-hacker.github.io'
+url: 'https://tiny-hacker.github.io/blog/'
 
 author: TIny_Hacker                  # change to your full name
 
@@ -29,7 +29,7 @@ github:
 
 social:
   name: TIny_Hacker                 # it will shows as the copyright owner in Footer
-  email: changed to cemetech PM             
+  email: changed to cemetech PM
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
